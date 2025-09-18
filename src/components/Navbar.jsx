@@ -28,7 +28,8 @@ const Navbar = ({ toggleSidebar }) => {
             </button>
 
             <div className="flex items-center ml-2 md:ml-0">
-              <ChefHat className="h-7 w-7 text-accent drop-shadow-sm" />
+              {/* <ChefHat className="h-7 w-7 text-accent drop-shadow-sm" /> */}
+              <img src="/logo.png" alt="Mala Bakes" className="h-12 w-auto" />
               <h1 className="ml-2 text-lg font-mono font-semibold text-text tracking-wide">
                 Mala Bakes
               </h1>
