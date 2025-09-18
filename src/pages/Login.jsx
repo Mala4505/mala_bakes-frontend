@@ -20,7 +20,7 @@ const Login = () => {
 
     setLoading(true);
     try {
-      const res = await axios.post("https://mala-bakes-backend.onrender.com/api/login/", {
+      const res = await axios.post("http://localhost:8000/api/login/", {
         password,
       });
 
@@ -40,9 +40,12 @@ const Login = () => {
   };
 
   return (
+    // <div className="min-h-screen flex items-center justify-center bg-muted/10">
+    //   <div className="bg-base p-6 rounded-lg shadow-md w-full max-w-sm space-y-4">
+    //     <h2 className="text-xl font-semibold text-text">Login</h2>
     <div className="min-h-screen flex items-center justify-center bg-muted/10">
-      <div className="bg-base p-6 rounded-lg shadow-md w-full max-w-sm space-y-4">
-        <h2 className="text-xl font-semibold text-text">Login</h2>
+      <div className="bg-base p-8 rounded-lg shadow-md w-full max-w-md">
+        <h2 className="text-2xl font-semibold mb-6 text-text">Login</h2>
         <form
           onSubmit={(e) => {
             e.preventDefault();
