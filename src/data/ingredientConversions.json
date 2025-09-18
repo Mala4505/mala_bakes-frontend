@@ -1,0 +1,266 @@
+[
+  {
+    "ingredient": "All-purpose flour",
+    "density": 0.59,
+    "units": ["grams", "cups", "ml", "tbsp", "tsp", "oz"],
+    "source": "King Arthur Baking / FAO"
+  },
+  {
+    "ingredient": "Whole wheat flour",
+    "density": 0.55,
+    "units": ["grams", "cups", "ml", "tbsp", "tsp", "oz"],
+    "source": "FAO"
+  },
+  {
+    "ingredient": "Graham flour",
+    "density": 0.55,
+    "units": ["grams", "cups", "ml", "tbsp", "tsp", "oz"],
+    "source": "Estimated"
+  },
+  {
+    "ingredient": "Cornstarch",
+    "density": 0.54,
+    "units": ["grams", "cups", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Baking powder",
+    "density": 0.90,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Baking soda",
+    "density": 2.20,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Cocoa powder",
+    "density": 0.40,
+    "units": ["grams", "cups", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Powdered sugar",
+    "density": 0.56,
+    "units": ["grams", "cups", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Brown sugar",
+    "density": 0.72,
+    "units": ["grams", "cups", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "White sugar",
+    "density": 0.85,
+    "units": ["grams", "cups", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Yeast",
+    "density": 0.95,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Butter",
+    "density": 0.911,
+    "units": ["grams", "cups", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Margarine",
+    "density": 0.90,
+    "units": ["grams", "cups", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Heavy cream",
+    "density": 0.994,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Whipping cream",
+    "density": 0.99,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Milk",
+    "density": 1.03,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Yogurt",
+    "density": 1.02,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Sour cream",
+    "density": 0.99,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Cream cheese",
+    "density": 1.00,
+    "units": ["grams", "cups", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Cheese (shredded)",
+    "density": 0.45,
+    "units": ["grams", "cups", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Eggs",
+    "density": 1.03,
+    "units": ["grams", "ml", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Cooked meat (chopped)",
+    "density": 1.00,
+    "units": ["grams", "cups", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Ground beef",
+    "density": 1.03,
+    "units": ["grams", "cups", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Chicken (shredded)",
+    "density": 1.00,
+    "units": ["grams", "cups", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Fish (flaked)",
+    "density": 1.00,
+    "units": ["grams", "cups", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Water",
+    "density": 1.00,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "Universal"
+  },
+  {
+    "ingredient": "Vegetable oil",
+    "density": 0.92,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Olive oil",
+    "density": 0.91,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Canola oil",
+    "density": 0.92,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Vinegar",
+    "density": 1.01,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Lemon juice",
+    "density": 1.03,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Orange juice",
+    "density": 1.04,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Honey",
+    "density": 1.44,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "FAO"
+  },
+  {
+    "ingredient": "Maple syrup",
+    "density": 1.32,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "USDA"
+  },
+  {
+    "ingredient": "Molasses",
+    "density": 1.45,
+    "units": ["grams", "cups", "ml", "tbsp", "oz"],
+    "source": "Convert-To.com"
+  },
+  {
+    "ingredient": "Salt",
+    "density": 1.02,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "Matmake"
+  },
+  {
+    "ingredient": "Pepper",
+    "density": 0.55,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "Answers.com"
+  },
+  {
+    "ingredient": "Garlic (minced)",
+    "density": 0.64,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "Julie Blanner"
+  },
+  {
+    "ingredient": "Ginger (grated)",
+    "density": 0.97,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "Sweet2EatBaking"
+  },
+  {
+    "ingredient": "Cinnamon (ground)",
+    "density": 0.52,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "GramstoCups"
+  },
+  {
+    "ingredient": "Vanilla extract",
+    "density": 1.00,
+    "units": ["grams", "ml", "tbsp", "oz"],
+    "source": "ChemicalBook"
+  },
+  {
+    "ingredient": "Coffee (ground)",
+    "density": 0.42,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "Quantitative Café"
+  },
+  {
+    "ingredient": "Tea leaves",
+    "density": 0.20,
+    "units": ["grams", "tbsp", "tsp", "oz"],
+    "source": "Elitea"
+  },
+  {
+    "ingredient": "Coconut (shredded)",
+    "density": 0.45,
+    "units": ["grams", "cups", "tbsp", "oz"],
+    "source": "Flavor365"
+  }
+]
