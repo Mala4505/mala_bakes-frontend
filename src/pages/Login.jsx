@@ -20,7 +20,7 @@ const Login = () => {
 
     setLoading(true);
     try {
-      const res = await axios.post("http://localhost:8000/api/login/", {
+      const res = await axios.post("https://mala-bakes-backend.onrender.com/api/login/", {
         password,
       });
 
